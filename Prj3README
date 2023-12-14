@@ -1,0 +1,31 @@
+/src
+  |
+  |-------/step1
+  |         |
+  |         |-------disk.c	simulates a disk-storage system
+  |         |
+  |         |-------makefile	makefile of step1
+  |
+  |-------/step2
+  |         |
+  |         |-------fs.h	header file of fs
+  |         |
+  |         |-------fs.c	function implementation of fs.h
+  |         |
+  |         |-------fs-main.c	shell program of the filesystem
+  |         |
+  |         |-------makefile	makefile of step2
+  |
+  |-------/step3
+  |         |
+  |         |-------fs.h	header file of fs
+  |         |
+  |         |-------fs.c	function implementation of fs.h
+  |         |
+  |         |-------fs-main.c	shell program of the filesystem
+  |         |
+  |         |-------makefile	makefile of step3
+  |
+  |-------report.pdf		project 3 report
+  |
+  |-------Prj3README		this file
